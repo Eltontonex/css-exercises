@@ -1,0 +1,30 @@
+.odd {
+    background-color:  rgb(255, 167, 167);
+    color: black;   
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#two {
+    color: blue;
+    font-weight: bold;
+    font-size: 48px;
+}
+.odd {
+      background-color: pink;
+      color: black;
+      font-size: 18px;
+}
+
+.four {
+       background-color: hsl(120, 100%, 75%);
+       color: black;
+       font-weight: bold;
+       font-size: 32px;
+}
+
+.odd {
+      background-color: pink;
+      color: black;
+      font-size: 18px;
+}
